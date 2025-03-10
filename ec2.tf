@@ -1,4 +1,4 @@
-provider "aws{
+provider "aws"{
 }
 
 resource "aws_instance" "myHCP-EC2" {
