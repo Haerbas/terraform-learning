@@ -1,5 +1,4 @@
 resource "aws_instance" "myHCP-EC2" {
-  ami = "ami-0c614dee691cbbf37"
+  ami = "ami-08b5b3a93ed654d19"
   instance_type = "t2.micro"
-
 }
